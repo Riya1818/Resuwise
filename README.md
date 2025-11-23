@@ -21,17 +21,17 @@ Resume History: Lets users store and review past resumes, track changes, and com
 
 (Customize based on your actual stack)
 
-Frontend: React / Next.js
+Frontend: React + tailwindcss
 
-Backend: Node.js / Express or Python (FastAPI / Flask)
+Backend: puter.js (Serverless cloud and AI storage)
 
 AI Models: OpenAI / LLM-based NLP models
 
-Storage: MongoDB / PostgreSQL
+Storage: puterStore
 
-File Processing: PyPDF2, docx, OCR libraries
+File Processing: PyPDF2,  docx, OCR libraries
 
-Deployment: Vercel / Render / Docker
+Deployment: Docker
 
 📌 Why ResuWise?
 
