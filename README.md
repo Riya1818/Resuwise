@@ -7,65 +7,15 @@ ResuWise is an intelligent, AI-powered Applicant Tracking System (ATS) tool desi
 
 🚀 Key Features
 
-🔍 1. Smart Resume Analysis
+Smart Resume Analysis: Extracts content, evaluates structure, and identifies weak areas.
 
-Upload your resume (PDF/DOCX) and get:
+Role-Specific ATS Score: Provides accurate ATS scoring tailored to the job role and industry.
 
-Detailed breakdown of your resume structure
+AI-Driven Suggestions: Offers targeted improvements for skills, experience, wording, and formatting.
 
-Keyword relevance analysis
+JD Matching: Compares your resume with a job description and highlights missing keywords.
 
-Identification of weak sections (skills, experience, formatting, etc.)
-
-Suggestions tailored to industry standards
-
-📊 2. Role-Specific ATS Score
-
-ResuWise calculates a highly accurate ATS compatibility score based on:
-
-Job role and industry (e.g., Data Analyst, Software Engineer, Product Manager)
-
-Keyword match and skills overlap
-
-Content clarity, readability, and formatting compliance
-
-Missing critical sections recruiters look for
-
-🧠 3. AI-Powered Improvements
-
-Get actionable, personalized recommendations such as:
-
-Skill enhancements
-
-Bullet-point rewrites
-
-Stronger action verbs
-
-Better project and experience descriptions
-
-Suggestions to align your resume with a specific job JD
-
-🗂️ 4. Resume History & Storage
-
-Users can save, manage, and revisit previously analyzed resumes:
-
-Access past ATS scores
-
-Track improvements over time
-
-Compare multiple resume versions
-
-Reuse stored resumes for new job descriptions
-
-📁 5. Job Description Matching
-
-Paste or upload a job description and let ResuWise:
-
-Highlight required skills
-
-Compare your resume with the JD
-
-Suggest exact modifications to increase job match score
+Resume History: Lets users store and review past resumes, track changes, and compare versions.
 
 🛠️ Tech Stack
 
