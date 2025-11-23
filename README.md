@@ -6,6 +6,7 @@ A modern, production-ready template for building full-stack React applications u
 ResuWise is an intelligent, AI-powered Applicant Tracking System (ATS) tool designed to help users evaluate and enhance their resumes with industry-specific insights, accurate ATS scoring, and actionable improvement suggestions. Whether you are applying for software engineering, data analytics, management roles, or any domain-specific position, ResuWise ensures your resume matches recruiter expectations and passes real-world ATS filters.
 
 🚀 Key Features
+
 🔍 1. Smart Resume Analysis
 
 Upload your resume (PDF/DOCX) and get:
